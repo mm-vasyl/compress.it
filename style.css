@@ -139,9 +139,9 @@ button.download {
         border-color: #006d24;
       }
 
-      & .open {
+      &.open {
         background-color: #3b76ff;
-        border-color: #000b69;
+        border-color: #2037ff;
       }
     }
   }
